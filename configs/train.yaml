@@ -5,9 +5,10 @@
 defaults:
   - _self_
   - data: sign
-  - model: sign
+  - model: rcnn
   - callbacks: default 
   - logger: wandb
+  - trainer: default
   - paths: default
   - extras: default
   - hydra: default
