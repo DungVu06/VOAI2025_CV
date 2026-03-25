@@ -148,7 +148,7 @@ dmypy.json
 configs/local/default.yaml
 data/private_test
 data/public_test
-data/train/
+data/train
 /logs/
 .env
 
