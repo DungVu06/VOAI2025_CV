@@ -1,0 +1,5 @@
+1. Về dữ liệu
+- Có nhiều từ có ít video, có nhiều từ có nhiều video
+- Video dao động trong khoảng 1-3s
+- Điểm đặc biệt là có các video mà đoạn đầu hoặc đoạn giữa video sẽ có một khoảng màn hình toàn màu trắng/vàng/tím... (không biết có phải do ban tổ chức cố tình để bắt ta process data không?)
+- Tất cả độ phân giải đều là 224x224p tuy nhiên frame rate các video khác nhau
